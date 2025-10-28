@@ -47,16 +47,20 @@ cd ../frontend
 npm install
 npm start
 
-# Folder Structure
+## Folder Structure
+
 ConnectGO/
+│
 ├── backend/
 │   ├── models/
 │   ├── routes/
 │   ├── controllers/
 │   └── server.js
+│
 ├── frontend/
 │   ├── src/
 │   └── public/
+
 
 
 ## Developer
