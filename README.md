@@ -3,12 +3,9 @@
 A Real-Time **MERN Chat App** developed by **Arindom Saikia**.  
 Seamlessly connecting users through modern design, instant messaging, and real-time interaction.  
 
-![ConnectGO](https://i.imgur.com/CMGzVa3.png)
 
-## ✅ Site Status  
-Live At: <a href="https://connectgo.netlify.app">Netlify | ConnectGO</a>  
-> [!TIP]
-[![Netlify Status](https://api.netlify.com/api/v1/badges/11d93069-5655-4db9-b73d-b34de9c5deab/deploy-status)](https://app.netlify.com/sites/connectgo/deploys)
+
+
 
 ---
 
