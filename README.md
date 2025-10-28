@@ -57,7 +57,7 @@ npm start
 **Project:** Real-Time MERN Chat App (ConnectGO)  
 **Year:** 2025  
 **GitHub:** [github.com/Arindamsky](https://github.com/Arindamsky)  
-**LinkedIn:** [linkedin.com/in/arindom-saikia](https://www.linkedin.com/in/arindom-saikia)
+**LinkedIn:** [linkedin.com/in/arindom-saikia](https://www.linkedin.com/in/arindam-saikia-9b6b37257)
 
 ---
 
